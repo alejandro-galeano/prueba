@@ -1,0 +1,26 @@
+
+header h1 a img {
+    border-radius: 3px;
+
+}
+
+
+header nav ul li {
+    font-size: 20px;
+}
+header {
+    background-color: hsla(29, 59%, 3%, 1);
+}   
+header h1 { 
+    color: hsla(29, 64%, 79%, 1);
+
+}
+header nav ul li a {
+
+    background-color:hsla(29, 17%, 49%, 1);
+
+    color: hsla(29, 64%, 79%, 1);
+
+    text-decoration: none;
+
+}
